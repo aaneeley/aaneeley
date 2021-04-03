@@ -4,7 +4,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />
-    I'm TheSphinx!
+    I'm Andrew!
 </h3>
 
 ---
