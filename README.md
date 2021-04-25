@@ -9,7 +9,7 @@
 
 ---
 
-Im aneeley05 (TheSphinx) and i'm a full stack developer specializing in UI/UX design, digital artwork, and HTTP requests/APIs
+Im Andrew (TheSphinx) and i'm a full stack developer specializing in UI/UX design, digital artwork, and HTTP requests/APIs
 
 Sorry, but most of my repositories are private.
 
