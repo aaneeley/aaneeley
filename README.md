@@ -9,7 +9,7 @@
 
 ---
 
-Im Andrew Neeley and i'm a full stack developer specializing in web development and API systems design.
+Im Andrew Neeley and i'm a full stack developer.
 
 Check out my portfolio <a href="https://aneeley.dev">Here!</a>
 
