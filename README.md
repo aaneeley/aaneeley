@@ -15,7 +15,13 @@ Check out my portfolio <a href="https://aneeley.dev">Here!</a>
 
 *Sorry, but most of my repositories are private projects.*
 
-## What I use
+<h2 align="center">Github Stats</h2>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aneeley05&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=algolia" />
+</p>
+
+<h2 align="center">What I Use</h2>
+
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -42,6 +48,3 @@ Check out my portfolio <a href="https://aneeley.dev">Here!</a>
 ### Design
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-## Github Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aneeley05&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
