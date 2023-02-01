@@ -18,6 +18,7 @@ Check out my portfolio <a href="https://aneeley.dev">Here!</a>
 <h2 align="center">Github Stats</h2>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aneeley05&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" />
+&nbsp;&nbsp;&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeley05&count_private=true&langs_count=3&theme=algolia&hide_border=true" />
 </p>
 
