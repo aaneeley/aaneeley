@@ -14,13 +14,14 @@ Im Andrew Neeley and i'm a full stack developer.
 Check out my portfolio <a href="https://aneeley.dev">Here!</a>
 
 *Sorry, but most of my repositories are private projects.*
-
+<!--
 <h2 align="center">Github Stats</h2>
 <p align="center">
 <img height="180em" src="https://readmestats.999857.xyz/api?username=aneeley100&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" />
 &nbsp;&nbsp;&nbsp;
 <img height="180em" src="https://readmestats.999857.xyz/api/top-langs/?username=aneeley100&count_private=true&langs_count=3&theme=algolia&hide_border=true" />
 </p>
+-->
 
 <h2 align="center">What I Use</h2>
 
